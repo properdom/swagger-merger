@@ -6,4 +6,4 @@ In the above usage example the current directory contains swagger specs that hav
 
 Find me on dockerhub https://hub.docker.com/r/properdom/swagger-merger/
 
-For detail on swagger-merger which this uses usage please see https://www.npmjs.com/package/swagger-merger
+For detail on swagger-merger which this uses please see https://www.npmjs.com/package/swagger-merger
